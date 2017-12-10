@@ -1,7 +1,3 @@
-//Program for implementation of PLA
-//Name:- Bhaavik Pratyush
-//Faculty No.:-16PEB011
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
